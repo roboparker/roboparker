@@ -1,6 +1,6 @@
 # Robert Parker
 
-I am a full stack web developer based in Chicago IL.
+## I am a full stack web developer based in Chicago IL.
 
 As a dedicated full-stack engineer with a passion for solving complex problems, I specialize in building secure, high-performance web applications and APIs. My toolkit includes Symfony, API Platform, and ReactJS, through which I've crafted scalable solutions that endure.
 
